@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/certificates/page": "app/certificates/page.js",
+  "/courses/[slug]/page": "app/courses/[slug]/page.js",
+  "/courses/page": "app/courses/page.js",
+  "/instructor/courses/[courseId]/edit/page": "app/instructor/courses/[courseId]/edit/page.js",
+  "/instructor/courses/[courseId]/preview/page": "app/instructor/courses/[courseId]/preview/page.js",
+  "/instructor/courses/page": "app/instructor/courses/page.js",
+  "/learn/[courseId]/page": "app/learn/[courseId]/page.js",
+  "/my-learning/page": "app/my-learning/page.js",
+  "/page": "app/page.js"
+}

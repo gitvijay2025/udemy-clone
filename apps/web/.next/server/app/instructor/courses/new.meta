@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/instructor/layout,_N_T_/instructor/courses/layout,_N_T_/instructor/courses/new/layout,_N_T_/instructor/courses/new/page,_N_T_/instructor/courses/new"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/instructor/courses/new/__PAGE__",
+    "/instructor/courses/new",
+    "/instructor/courses",
+    "/instructor",
+    "/_index",
+    "/_head"
+  ]
+}
